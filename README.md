@@ -1,2 +1,4 @@
 # map
- This project is an interactive map viewer that enables zooming in and out on different areas and navigating in four directions: left, right, up, and down
+ This project is an interactive map viewer that enables zooming in and out on different areas and navigating in four directions: left, right, up, and down.
+ 
+ Run Frame.Java to see the result
